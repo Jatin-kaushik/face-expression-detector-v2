@@ -1,0 +1,89 @@
+2020-07-17 02:00:54,585 :: Face_api :: INFO :: The output is :  400 Bad Request: Failed to decode JSON object: Invalid control character at: line 1 column 210513 (char 210512)
+2020-07-17 02:01:14,623 :: Face_api :: INFO :: The request has been received !!
+2020-07-17 02:01:18,509 :: Face_api :: INFO :: The output is :  1
+2020-07-17 02:57:24,346 :: Face_api :: INFO :: The request has been received !!
+2020-07-17 02:57:26,255 :: Face_api :: INFO :: The output is :  0
+2020-07-17 12:55:03,637 :: Face_api :: INFO :: The request has been received !!
+2020-07-17 12:55:08,664 :: Face_api :: INFO :: The output is :  0
+2020-07-17 12:57:37,952 :: Face_api :: INFO :: The request has been received !!
+2020-07-17 12:57:39,881 :: Face_api :: INFO :: The output is :  0
+2020-07-17 12:58:09,454 :: Face_api :: INFO :: The request has been received !!
+2020-07-17 12:58:14,348 :: Face_api :: INFO :: The output is :  1
+2020-07-20 13:09:17,720 :: Face_api :: INFO :: The request has been received !!
+2020-07-20 13:09:21,058 :: Face_api :: INFO :: The output is :  1
+2020-07-20 16:25:01,969 :: Face_api :: INFO :: The request has been received !!
+2020-07-20 16:25:05,115 :: Face_api :: INFO :: The output is :  0
+2020-07-20 16:25:57,511 :: Face_api :: INFO :: The request has been received !!
+2020-07-20 16:25:59,168 :: Face_api :: INFO :: The output is :  0
+2020-07-20 16:26:05,907 :: Face_api :: INFO :: The request has been received !!
+2020-07-20 16:26:07,561 :: Face_api :: INFO :: The output is :  0
+2020-07-23 00:02:51,640 :: Face_api :: INFO :: The request has been received !!
+2020-07-23 00:02:57,053 :: Face_api :: INFO :: The output is :  0
+2020-07-23 00:03:32,596 :: Face_api :: INFO :: The request has been received !!
+2020-07-23 00:03:35,103 :: Face_api :: INFO :: The output is :  0
+2020-07-27 18:04:13,561 :: Face_api :: INFO :: The request has been received !!
+2020-07-27 18:04:17,499 :: Face_api :: INFO :: The output is :  {'Result': 'Not_happy'}
+2020-07-27 18:06:13,887 :: Face_api :: INFO :: The request has been received !!
+2020-07-27 18:06:15,444 :: Face_api :: INFO :: The output is :  {'Result': 'Happy'}
+2020-07-27 18:10:43,994 :: Face_api :: INFO :: The request has been received !!
+2020-07-27 18:10:45,692 :: Face_api :: INFO :: The output is :  {'Result': 'Happy'}
+2020-07-27 18:26:02,705 :: Face_api :: INFO :: The request has been received !!
+2020-07-27 18:26:04,379 :: Face_api :: INFO :: The output is :  {'Result': 'Happy'}
+2020-07-27 18:26:19,978 :: Face_api :: INFO :: The request has been received !!
+2020-07-27 18:26:20,724 :: Face_api :: INFO :: The output is :  {'Result': 'Happy'}
+2020-07-27 18:28:05,769 :: Face_api :: INFO :: The request has been received !!
+2020-07-27 18:28:06,425 :: Face_api :: INFO :: The output is :  {'Result': 'Happy'}
+2020-07-27 18:28:12,247 :: Face_api :: INFO :: The request has been received !!
+2020-07-27 18:28:12,938 :: Face_api :: INFO :: The output is :  {'Result': 'Happy'}
+2020-08-27 15:20:47,384 :: Face_api :: INFO :: The request has been received !!
+2020-08-27 15:20:52,005 :: Face_api :: INFO :: The output is :  {'Result': 'Happy'}
+2020-08-27 15:21:03,227 :: Face_api :: INFO :: The request has been received !!
+2020-08-27 15:21:05,226 :: Face_api :: INFO :: The output is :  {'Result': 'Happy'}
+2020-08-27 15:21:14,125 :: Face_api :: INFO :: The request has been received !!
+2020-08-27 15:21:15,381 :: Face_api :: INFO :: The output is :  {'Result': 'Happy'}
+2020-08-27 15:21:24,374 :: Face_api :: INFO :: The request has been received !!
+2020-08-27 15:21:25,028 :: Face_api :: INFO :: The output is :  {'Result': 'Not_happy'}
+2020-08-27 15:23:40,833 :: Face_api :: INFO :: The request has been received !!
+2020-08-27 15:23:41,354 :: Face_api :: INFO :: The output is :  {'Result': 'Happy'}
+2020-09-13 16:18:40,958 :: Face_api :: INFO :: The request has been received !!
+2020-09-13 16:18:49,892 :: Face_api :: INFO :: The output is :  {'Result': 'Not_happy'}
+2020-09-13 16:24:21,009 :: Face_api :: INFO :: The request has been received !!
+2020-09-13 16:24:24,608 :: Face_api :: INFO :: The output is :  {'Result': 'Happy'}
+2020-09-13 16:25:01,628 :: Face_api :: INFO :: The request has been received !!
+2020-09-13 16:25:03,181 :: Face_api :: INFO :: The output is :  {'Result': 'Happy'}
+2020-09-13 16:25:21,718 :: Face_api :: INFO :: The request has been received !!
+2020-09-13 16:25:22,392 :: Face_api :: INFO :: The output is :  {'Result': 'Happy'}
+2020-09-13 16:25:35,749 :: Face_api :: INFO :: The request has been received !!
+2020-09-13 16:25:36,714 :: Face_api :: INFO :: The output is :  {'Result': 'Happy'}
+2020-09-13 16:27:23,962 :: Face_api :: INFO :: The request has been received !!
+2020-09-13 16:27:27,326 :: Face_api :: INFO :: The output is :  {'Result': 'Happy'}
+2020-09-13 16:31:48,170 :: Face_api :: INFO :: The request has been received !!
+2020-09-13 16:31:48,877 :: Face_api :: INFO :: The output is :  {'Result': 'Not_happy'}
+2020-09-13 16:32:00,461 :: Face_api :: INFO :: The request has been received !!
+2020-09-13 16:32:01,821 :: Face_api :: INFO :: The output is :  {'Result': 'Not_happy'}
+2020-09-13 16:35:09,805 :: Face_api :: INFO :: The request has been received !!
+2020-09-13 16:35:13,400 :: Face_api :: INFO :: The output is :  {'Result': 'Not_happy'}
+2020-09-13 16:35:29,731 :: Face_api :: INFO :: The request has been received !!
+2020-09-13 16:35:31,097 :: Face_api :: INFO :: The output is :  {'Result': 'Happy'}
+2020-09-13 16:35:45,025 :: Face_api :: INFO :: The request has been received !!
+2020-09-13 16:35:47,995 :: Face_api :: INFO :: The output is :  {'Result': 'Happy'}
+2020-09-13 16:36:00,837 :: Face_api :: INFO :: The request has been received !!
+2020-09-13 16:36:03,616 :: Face_api :: INFO :: The output is :  {'Result': 'Not_happy'}
+2020-09-13 16:36:18,680 :: Face_api :: INFO :: The request has been received !!
+2020-09-13 16:36:20,760 :: Face_api :: INFO :: The output is :  {'Result': 'Not_happy'}
+2020-09-13 16:36:29,272 :: Face_api :: INFO :: The request has been received !!
+2020-09-13 16:36:30,730 :: Face_api :: INFO :: The output is :  {'Result': 'Not_happy'}
+2020-09-13 16:36:41,600 :: Face_api :: INFO :: The request has been received !!
+2020-09-13 16:36:45,103 :: Face_api :: INFO :: The output is :  {'Result': 'Happy'}
+2020-09-13 16:36:59,636 :: Face_api :: INFO :: The request has been received !!
+2020-09-13 16:37:01,212 :: Face_api :: INFO :: The output is :  {'Result': 'Happy'}
+2020-09-13 16:38:30,887 :: Face_api :: INFO :: The request has been received !!
+2020-09-13 16:38:35,741 :: Face_api :: INFO :: The output is :  {'Result': 'Happy'}
+2020-09-13 16:39:07,873 :: Face_api :: INFO :: The request has been received !!
+2020-09-13 16:39:09,353 :: Face_api :: INFO :: The output is :  {'Result': 'Not_happy'}
+2020-09-13 16:39:15,125 :: Face_api :: INFO :: The request has been received !!
+2020-09-13 16:39:16,699 :: Face_api :: INFO :: The output is :  {'Result': 'Not_happy'}
+2020-09-13 16:39:29,676 :: Face_api :: INFO :: The request has been received !!
+2020-09-13 16:39:32,498 :: Face_api :: INFO :: The output is :  {'Result': 'Not_happy'}
+2020-09-13 16:39:45,849 :: Face_api :: INFO :: The request has been received !!
+2020-09-13 16:39:48,641 :: Face_api :: INFO :: The output is :  {'Result': 'Happy'}
